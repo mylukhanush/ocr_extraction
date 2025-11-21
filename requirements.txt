@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Web Framework and Database
+Flask
+Flask-SQLAlchemy==3.0.3
+SQLAlchemy==1.4.46
+
+# Database Driver (Switched to MySQL)
+pymysql
+cryptography
+
+# Utilities
+python-dotenv
+google-generativeai
+Pillow
+
+# Computer Vision and PDF Processing
+opencv-python
+PyMuPDF
+numpy
